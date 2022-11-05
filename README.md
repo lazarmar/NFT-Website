@@ -1,6 +1,6 @@
 # NFT-Website
 
-This is NFT website I developed.
+This is NFT website I developed in Webflow.
 It has CMS integrations so I can't post code here, but take a look at the website anyways.
 
 Project link:https://nft-market-lm.webflow.io/
